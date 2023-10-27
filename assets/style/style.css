@@ -31,7 +31,7 @@ body::before {
       #3a3a9ecc,
       #8888ceb3
     ),
-    url("../images/graham.jpg");
+    url("../image/graham.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -139,7 +139,7 @@ form {
   background-color: #fff;
   background-clip: padding-box;
   border: 1px solid #ced4da;
-  border-radius: 25%;
+  border-radius: 5px;
   transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
 }
 
