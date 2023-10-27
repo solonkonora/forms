@@ -27,9 +27,9 @@ body::before {
   background-color: #1b1b32;
   background-image:
     linear-gradient(
-    115deg,
-    #3a3a9ecc,
-    #8888ceb3
+      115deg,
+      #3a3a9ecc,
+      #8888ceb3
     ),
     url("../images/graham.jpg");
   background-size: cover;
