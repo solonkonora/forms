@@ -12,6 +12,7 @@ body {
 }
 
 /* mobile friendly alternative to using background-attachment: fixed */
+/* body::before is a CSS pseudo-element that allows you to insert content before the actual content of the <body> element */
 body::before {
   content: '';
   position: fixed;
